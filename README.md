@@ -17,4 +17,4 @@ It cannot be considered "safe". However, it is a much better starting point than
 
 ---
 
-![1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv](https://github.com/whackashoe/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)`1Ross5Np5doy4ajF9iGXzgKaC2Q3Pwwxv`
+![1FwDVbQk2ywhgitYLLWfumFp3MCGdLQRQk](https://github.com/cycomm/tor-hidden-service-setup/blob/master/bitcoin-donate.png?raw=true)`1FwDVbQk2ywhgitYLLWfumFp3MCGdLQRQk`
